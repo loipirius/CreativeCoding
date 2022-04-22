@@ -70,14 +70,14 @@ Material:
     m_Floats:
     - Vector1_192C271A: 10000
     - Vector1_1C46A186: 10000000
-    - Vector1_1D5EEB36: 0
+    - Vector1_1D5EEB36: 0.005
     - Vector1_1F8DAB8F: 1500
     - Vector1_2E81FC24: 0
     - Vector1_324B1D80: 1
     - Vector1_4E2B20FA: 0.0001
     - Vector1_51CCD8F2: 10000
     - Vector1_5AB2B3E0: 20
-    - Vector1_60B84A88: 0
+    - Vector1_60B84A88: 1
     - Vector1_6B2AE083: 4000
     - Vector1_6D56C08F: 0
     - Vector1_70CECD7A: 5.72
